@@ -1,0 +1,141 @@
+
+body{
+	padding: 0;
+	margin:0;
+	background: rgba(0,0,0,0.2);
+}
+.separe{
+	width: 30px;
+	border-color: transparent;
+}
+.searchers{
+	margin-top: 40px;
+	display:flex;
+}
+.title{
+	margin-top: 0px;
+	width: 100%;
+	height: 35px;
+	background: #303030;
+	font-size: 25px;
+	color: white;
+	text-align: center;
+}
+/*aside*/
+.bdServer{
+	margin-left: 20px;
+	width: 100%;
+	border-radius: 3px;
+	min-width: 270px;
+	background: #3498DB;
+}
+.displayTables{
+	margin: auto;
+	width: 80%;
+	border-radius: 3px;
+	min-width: 270px;
+	background: #3498DB;
+}
+.alignContent{
+	width: 90%;
+	margin: auto;
+}
+.content{
+	color: white;
+	font-size: 20px
+}
+.inputText{
+	font-size:15px;
+	width: 100%;
+	height: 35px;
+	border-color: transparent;
+	border-radius: 2px;
+	text-align: center;
+}
+.create{
+	display: flex;
+	margin-top: 5px;
+}
+.btnAction{
+	color: white;
+	background:#0057A0;
+	border-color: transparent;
+	font-size: 15px;
+	width: 30%;
+}
+.btnDrop{
+color: white;
+	background:#0057A0;
+	font-size: 15px;
+	border-color:rgba(0,0,0,0.5);
+	border-bottom-color: transparent;
+	border-width: 0px 10px 0px 10px;
+	width: 100%;	
+}
+hr{
+	border-color: transparent;
+	height: 18px;
+}
+/*finder*/
+.finder{
+	margin-right: 20px;
+	width: 100%;
+	background: #3498DB;
+}
+.searchTables{
+	font-size:15px;
+	width:100%;
+	height: 35px;
+	border-color: transparent;
+	border-radius: 2px;
+	text-align: center;
+}
+.dropForm{
+	border-radius: 3px;
+	height: 30px;
+	margin:15px;
+	width: 95%;
+	display: flex;
+}
+.useForm{
+	border-radius: 3px;
+	height: 30px;
+	margin:15px;
+	width: 95%;
+	background: rgba(0,0,0,0.5);
+	display: flex;
+}
+.nameDB{
+	background:transparent;
+	border-color:transparent;
+	color:white;
+	font-size:15px;
+}
+
+.tableUsers{
+	width: 100%;
+	margin: auto;
+}
+td{
+	text-align: center;
+	border-style: solid;
+	border-color: #9b59b6;
+	border-width: 0px 0px 5px 0px;
+	padding: 5px;
+	
+}
+.tableUsers{
+	width: 100%;
+	margin: auto;
+}
+td{
+	text-align: center;
+	border-style: solid;
+	border-color: #9b59b6;
+	border-width: 0px 0px 5px 0px;
+	padding: 5px;
+}
+.titleData{
+font-size: 20px;
+	background: #2c3e50;
+}
